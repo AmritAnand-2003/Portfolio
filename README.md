@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://portfolio-one-psi-78.vercel.app/" target="_blank">amrit.tech</a>
+  <a href="https://amrit-anand-portfolio.vercel.app/" target="_blank">amrit.tech</a>
 </h2>
 <!-- <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
