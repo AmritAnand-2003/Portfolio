@@ -20,13 +20,13 @@
     <a href="https://github.com/AmritAnand-2003/Portfolio/issues">Request Feature</a>
 </h3>
 
-## TL;DR
+<!-- ## TL;DR
 
-Credits for this page goes to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+Credits for this page goes to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks! -->
 
 ## Built With
 
-My personal portfolio <a href="https://portfolio-one-psi-78.vercel.app/" target="_blank">amrit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://amrit-anand-portfolio.vercel.app/" target="_blank">amrit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
