@@ -38,18 +38,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing backend products
-              with <b className="purple">Python</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Django
-                </b>
-              </i>
-              {/* &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i> */}
+              Whenever possible, I also apply my passion for developing scalable backend products.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
